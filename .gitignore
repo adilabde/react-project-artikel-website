@@ -8,12 +8,19 @@
 # testing
 /coverage
 
+<<<<<<< HEAD
 #my files
+=======
+#my files and folders
+>>>>>>> 5324180 (create the project)
 /src/sass
 /src/node_modules
 *.scss
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 5324180 (create the project)
 # production
 /build
 

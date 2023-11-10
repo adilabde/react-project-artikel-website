@@ -8,5 +8,8 @@ root.render(
     <App />
   </React.StrictMode>
 );
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 5324180 (create the project)

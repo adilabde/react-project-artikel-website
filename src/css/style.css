@@ -1,0 +1,27 @@
+root {
+  --color-primary: red;
+  --color-grey-dark: #ddd; }
+
+* {
+  margin: 0;
+  padding: 0; }
+
+body {
+  box-sizing: border-box;
+  background-color: var(--color-primary); }
+
+html {
+  font-size: 62.5%; }
+
+.navbar {
+  font-size: 1.4rem;
+  padding: 1rem; }
+  .navbar ul {
+    display: flex;
+    align-items: center;
+    list-style: none; }
+    .navbar ul li {
+      margin-right: 2rem; }
+      .navbar ul li:not(:last-child) {
+        color: red;
+        font-weight: 600; }
