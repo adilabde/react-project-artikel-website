@@ -1,6 +1,8 @@
 root {
   --color-primary: red;
-  --color-grey-dark: #ddd; }
+  --color-grey-dark-1: #ddd;
+  --color-grey-dark-2: #eee;
+  --color-grey-dark-3: #ccc; }
 
 * {
   margin: 0;
@@ -14,14 +16,30 @@ html {
   font-size: 62.5%; }
 
 .navbar {
-  font-size: 1.4rem;
-  padding: 1rem; }
-  .navbar ul {
+  font-size: 1.6rem;
+  padding: 2rem;
+  height: 5rem;
+  width: 100%;
+  background-color: #fff;
+  box-shadow: 0 2rem 4rem rgba(0, 0, 0, 0.1);
+  display: flex;
+  align-self: center; }
+  .navbar__title {
+    display: inline-block;
+    align-self: center;
+    font-size: 2rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    padding: 1rem;
+    letter-spacing: 1px; }
+  .navbar__list {
     display: flex;
+    list-style: none;
     align-items: center;
-    list-style: none; }
-    .navbar ul li {
-      margin-right: 2rem; }
-      .navbar ul li:not(:last-child) {
-        color: red;
-        font-weight: 600; }
+    margin-left: 1rem; }
+  .navbar__item {
+    margin-right: 3rem;
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: 1.5px;
+    cursor: pointer; }

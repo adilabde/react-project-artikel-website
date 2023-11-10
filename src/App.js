@@ -1,19 +1,13 @@
-<<<<<<< HEAD
-import './';
+import Footer from './component/Footer';
+import Navbar from './component/Navbar';
+import './css/style.css';
 
 function App() {
   return (
     <div>
-      <h1>Adil</h1>
+     <Navbar/>
+     {/* <Footer/> */}
         
-=======
-
-
-function App() {
-  return (
-    <div >
-     <h1>Adil Abde</h1>
->>>>>>> 5324180 (create the project)
     </div>
   );
 }
