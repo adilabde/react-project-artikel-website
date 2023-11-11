@@ -11,6 +11,7 @@
 #my files
 /src/sass
 /src/node_modules
+/src/assest
 *.scss
 
 # production
