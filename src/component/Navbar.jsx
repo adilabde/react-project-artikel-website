@@ -9,7 +9,10 @@ export default function Navbar({ title, name = "Contact" }) {
           <li className="navbar__item">
             <Link to={"/"} className="navbar__item-link">Artikels list</Link>
           </li>
-          <li className="navbar__item">Create new artikle</li>
+          <li className="navbar__item">
+            <Link to={"/create_article"} className="navbar__item-link">
+            Create new artikle
+            </Link></li>
           <li className="navbar__item">
             <Link to={"/about"} className="navbar__item-link">About us</Link>
           </li>
