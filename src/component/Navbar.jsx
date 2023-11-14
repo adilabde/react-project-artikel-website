@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 
-export default function Navbar({ title, name = "Contact" }) {
+export default function Navbar({ title, name = "" }) {
   return (
     <div className="navbar">
       <div className="navbar__header">

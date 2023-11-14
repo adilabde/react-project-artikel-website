@@ -1,67 +1,73 @@
 {
-  "articles": {
-    "status": true,
-    "data": [
-      {
-        "id": 1,
-        "title": "React",
-        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRik2LL2GC8-CpamK0XQfB9ecrwMHjcggyYhg&usqp=CAU",
-        "readingTime": 4,
-        "author": "Adil Abde",
-        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit eligendi nemo numquam corporis repudiandae exercitationem optio aliquid ab earum voluptatibus repellendus quibusdam beatae, possimus perspiciatis deleniti perferendis voluptates inventore maiores.        Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit eligendi nemo numquam corporis repudiandae exercitationem optio aliquid ab earum voluptatibus repellendus quibusdam beatae, possimus perspiciatis deleniti perferendis voluptates inventore maiores.        Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit eligendi nemo numquam corporis repudiandae exercitationem optio aliquid ab earum voluptatibus repellendus quibusdam beatae, possimus perspiciatis deleniti perferendis voluptates inventore maiores.",
-        "data": "12.06.2023"
-      },
-      {
-        "id": 2,
-        "title": "React",
-        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQToDQLmAs8O5fNCMUq8Dr6IgNcfx_cCOgRcw&usqp=CAU",
-        "readingTime": 1,
-        "author": "Adil Abde",
-        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit eligendi nemo numquam corporis repudiandae exercitationem optio aliquid ab earum voluptatibus repellendus quibusdam beatae, possimus perspiciatis deleniti perferendis voluptates inventore maiores.        Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit eligendi nemo numquam corporis repudiandae exercitationem optio aliquid ab earum voluptatibus repellendus quibusdam beatae, possimus perspiciatis deleniti perferendis voluptates inventore maiores.        Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit eligendi nemo numquam corporis repudiandae exercitationem optio aliquid ab earum voluptatibus repellendus quibusdam beatae, possimus perspiciatis deleniti perferendis voluptates inventore maiores.",
-        "data": "12.06.2023"
-      },
-      {
-        "id": 3,
-        "title": "React project",
-        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStnFhMG38UUouwmQwqT5yiya00xAw2yKBofA&usqp=CAU",
-        "readingTime": 9,
-        "author": "Adil Abde",
-        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit eligendi nemo numquam corporis repudiandae exercitationem optio aliquid ab earum voluptatibus repellendus quibusdam beatae, possimus perspiciatis deleniti perferendis voluptates inventore maiores.        Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit eligendi nemo numquam corporis repudiandae exercitationem optio aliquid ab earum voluptatibus repellendus quibusdam beatae, possimus perspiciatis deleniti perferendis voluptates inventore maiores.        Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit eligendi nemo numquam corporis repudiandae exercitationem optio aliquid ab earum voluptatibus repellendus quibusdam beatae, possimus perspiciatis deleniti perferendis voluptates inventore maiores.",
-        "data": "12.06.2023"
-      },
-      {
-        "id": 4,
-        "title": "React plus Sass",
-        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ_bvz1bnqJWnlp9J7jWPULlpOYx6-wu0KHQ&usqp=CAU",
-        "readingTime": 8
-      },
-      {
-        "id": 5,
-        "title": "React saves in github",
-        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLwWgun4_3N4WLOEevJ67Fz1k9TPWau4ACOw&usqp=CAU",
-        "readingTime": 3,
-        "author": "Adil Abde",
-        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit eligendi nemo numquam corporis repudiandae exercitationem optio aliquid ab earum voluptatibus repellendus quibusdam beatae, possimus perspiciatis deleniti perferendis voluptates inventore maiores.        Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit eligendi nemo numquam corporis repudiandae exercitationem optio aliquid ab earum voluptatibus repellendus quibusdam beatae, possimus perspiciatis deleniti perferendis voluptates inventore maiores.        Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit eligendi nemo numquam corporis repudiandae exercitationem optio aliquid ab earum voluptatibus repellendus quibusdam beatae, possimus perspiciatis deleniti perferendis voluptates inventore maiores.",
-        "data": "12.06.2023"
-      },
-      {
-        "id": 6,
-        "title": "React project",
-        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStnFhMG38UUouwmQwqT5yiya00xAw2yKBofA&usqp=CAU",
-        "readingTime": 9
-      },
-      {
-        "id": 7,
-        "title": "React plus Sass",
-        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ_bvz1bnqJWnlp9J7jWPULlpOYx6-wu0KHQ&usqp=CAU",
-        "readingTime": 8
-      },
-      {
-        "id": 8,
-        "title": "React saves in github",
-        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLwWgun4_3N4WLOEevJ67Fz1k9TPWau4ACOw&usqp=CAU",
-        "readingTime": 3
-      }
-    ]
-  }
+  "articles": [
+    {
+      "id": 1,
+      "title": "React",
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRik2LL2GC8-CpamK0XQfB9ecrwMHjcggyYhg&usqp=CAU",
+      "readingTime": 4,
+      "author": "Adil Abde",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit eligendi nemo numquam corporis repudiandae exercitationem optio aliquid ab earum voluptatibus repellendus quibusdam beatae, possimus perspiciatis deleniti perferendis voluptates inventore maiores.        Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit eligendi nemo numquam corporis repudiandae exercitationem optio aliquid ab earum voluptatibus repellendus quibusdam beatae, possimus perspiciatis deleniti perferendis voluptates inventore maiores.        Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit eligendi nemo numquam corporis repudiandae exercitationem optio aliquid ab earum voluptatibus repellendus quibusdam beatae, possimus perspiciatis deleniti perferendis voluptates inventore maiores.",
+      "data": "12.06.2023"
+    },
+    {
+      "id": 2,
+      "title": "React",
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQToDQLmAs8O5fNCMUq8Dr6IgNcfx_cCOgRcw&usqp=CAU",
+      "readingTime": 1,
+      "author": "Adil Abde",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit eligendi nemo numquam corporis repudiandae exercitationem optio aliquid ab earum voluptatibus repellendus quibusdam beatae, possimus perspiciatis deleniti perferendis voluptates inventore maiores.        Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit eligendi nemo numquam corporis repudiandae exercitationem optio aliquid ab earum voluptatibus repellendus quibusdam beatae, possimus perspiciatis deleniti perferendis voluptates inventore maiores.        Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit eligendi nemo numquam corporis repudiandae exercitationem optio aliquid ab earum voluptatibus repellendus quibusdam beatae, possimus perspiciatis deleniti perferendis voluptates inventore maiores.",
+      "data": "12.06.2023"
+    },
+    {
+      "id": 3,
+      "title": "React project",
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStnFhMG38UUouwmQwqT5yiya00xAw2yKBofA&usqp=CAU",
+      "readingTime": 9,
+      "author": "Adil Abde",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit eligendi nemo numquam corporis repudiandae exercitationem optio aliquid ab earum voluptatibus repellendus quibusdam beatae, possimus perspiciatis deleniti perferendis voluptates inventore maiores.        Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit eligendi nemo numquam corporis repudiandae exercitationem optio aliquid ab earum voluptatibus repellendus quibusdam beatae, possimus perspiciatis deleniti perferendis voluptates inventore maiores.        Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit eligendi nemo numquam corporis repudiandae exercitationem optio aliquid ab earum voluptatibus repellendus quibusdam beatae, possimus perspiciatis deleniti perferendis voluptates inventore maiores.",
+      "data": "12.06.2023"
+    },
+    {
+      "id": 4,
+      "title": "React plus Sass",
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ_bvz1bnqJWnlp9J7jWPULlpOYx6-wu0KHQ&usqp=CAU",
+      "readingTime": 8
+    },
+    {
+      "id": 5,
+      "title": "React saves in github",
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLwWgun4_3N4WLOEevJ67Fz1k9TPWau4ACOw&usqp=CAU",
+      "readingTime": 3,
+      "author": "Adil Abde",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit eligendi nemo numquam corporis repudiandae exercitationem optio aliquid ab earum voluptatibus repellendus quibusdam beatae, possimus perspiciatis deleniti perferendis voluptates inventore maiores.        Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit eligendi nemo numquam corporis repudiandae exercitationem optio aliquid ab earum voluptatibus repellendus quibusdam beatae, possimus perspiciatis deleniti perferendis voluptates inventore maiores.        Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit eligendi nemo numquam corporis repudiandae exercitationem optio aliquid ab earum voluptatibus repellendus quibusdam beatae, possimus perspiciatis deleniti perferendis voluptates inventore maiores.",
+      "data": "12.06.2023"
+    },
+    {
+      "id": 6,
+      "title": "React project",
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStnFhMG38UUouwmQwqT5yiya00xAw2yKBofA&usqp=CAU",
+      "readingTime": 9
+    },
+    {
+      "id": 7,
+      "title": "React plus Sass",
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ_bvz1bnqJWnlp9J7jWPULlpOYx6-wu0KHQ&usqp=CAU",
+      "readingTime": 8
+    },
+    {
+      "id": 8,
+      "title": "React saves in github",
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLwWgun4_3N4WLOEevJ67Fz1k9TPWau4ACOw&usqp=CAU",
+      "readingTime": 3
+    },
+    {
+      "id": 1699996302164,
+      "title": "Why Javascript",
+      "date": "2023-11-14",
+      "author": "Adil ",
+      "readingTime": "",
+      "content": "poris repudiandae exercitationem optio aliquid ab earum voluptatibus repellendus quibusdam beatae, possimus perspiciatis deleniti perferendis voluptates inventore maiores.        Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit eligendi nemo numquam corporis repudiandae exercitationem optio aliquid ab earum voluptatibus repellendus quibusdam beatae, possimus perspiciatis deleniti perferendis voluptates inventore maiores.        Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit eligendi nemo numquam corporis repudiandae exercitationem optio aliquid ab earum voluptatibus",
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRik2LL2GC8-CpamK0XQfB9ecrwMHjcggyYhg&usqp=CAU"
+    }
+  ]
 }

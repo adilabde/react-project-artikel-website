@@ -22,7 +22,7 @@ export default function Home() {
   const database = async function (url) {
     const response = await fetch(url);
     const data = await response.json();
-    setArticles(data.data);
+    setArticles(data);
   };
 
   // useEffect(()=>
@@ -38,7 +38,7 @@ export default function Home() {
     axios
       .get(url)
       .then((res) => {
-        setArticles(res.data.data);
+        setArticles(res.data);
         setIsLoading(false);
       })
       .catch((err) => {
